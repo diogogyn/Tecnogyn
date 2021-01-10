@@ -9,3 +9,5 @@ Sobre o nome Tecnogyn, esta escolha foi dada pouco antes de 2009. Eu era aficcio
 Há uma versão também publicada utilizando um CMS online. Pode ser acessado pelo link: http://tecnogyn.webnode.com (o link ainda está ativo).
 
 OBS: Farei algumas adaptações futuras, para conseguir colocar o site no ar novamente. Na epoca havia publicado em um servidor de hospedagem gratis.
+
+OBS2: Era uma intenção futura introduzir o uso de um editor de texto, para publicação dos artigos do site. Para isso, a ideia era utilizar o <a href="https://github.com/tinymce/tinymce">Tinymce</a>
