@@ -1,0 +1,2 @@
+<h1>jogo em destaque:</h1>
+<embed src="http://clickjogos.uol.com.br/embed.php?id=72&t=c47a2f5af40caae1efe5e7c9547579dd" type="application/x-shockwave-flash" width="690" height="500"></embed> <br /><a href="http://clickjogos.uol.com.br/Jogos-do-sonic/">Mais Jogos do Sonic no Click Jogos</a>

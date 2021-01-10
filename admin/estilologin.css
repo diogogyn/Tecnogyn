@@ -1,0 +1,15 @@
+body {background:url(imglogin/fundo.png) no-repeat;}
+#box {margin: 0px auto; padding:0; width:1200px;}
+#topo {
+	
+	text-align:center;
+	font:10px "Comic Sans MS", cursive;
+}
+
+#login {
+	position:absolute;
+	left:502px;
+	top:317px;
+}
+#divclear {clear:both;}
+#footer {position:absolute; top:500px; text-align:center;}

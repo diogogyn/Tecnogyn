@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_downloads" value="name:posicao;datatype:int,name:logo;datatype:string,name:nome;datatype:string,name:descricao;datatype:blob,name:tamanho;datatype:string,name:download;datatype:string" />
+</info>

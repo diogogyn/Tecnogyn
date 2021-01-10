@@ -1,0 +1,17 @@
+*{margin:0; padding:0;}
+body {background:url(../imgs/fundo_index.png) repeat}
+#box{width:1200px; margin:0 auto}
+
+/*Topo*/
+
+#topo {width:1200px; height:574px; background: url(../imgs/topo_inicio.png) no-repeat;}
+#logo {text-align:center;}
+#menu {float:right; text-align:right; font:20px "Times New Roman", Times, serif; color:#FFF; font-weight:bold;}
+#menu a {font:23px "Comic Sans MS", cursive; text-decoration:none; color:#FFF; font-weight:bold; background-image:url(../imgs/botao.png);}
+#menu a:hover {background-image: url(../imgs/botao%20a%20hver.png);}
+#texto {float:right; font:18px "Times New Roman", Times, serif; color:#FFF; font-weight:bold; text-align:center;width:390px; height:100x;}
+
+/*FOOTER*/
+#footer {width:1200px; margin:0 auto; height:97px; padding:0px; background:url(../imgs/footer_index.png) repeat-x; margin-top:4px;}
+#divclear {clear:both;}
+#copy {font:15px Tahoma, Geneva, sans-serif; color:#FFF; text-align: center; margin:10px 0;}
